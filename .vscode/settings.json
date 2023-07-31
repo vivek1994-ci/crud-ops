@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.mount": [
+        
+    ],
+    "liveServer.settings.port":3000,
+    "liveServer.settings.root": ""
+}
